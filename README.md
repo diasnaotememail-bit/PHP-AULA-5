@@ -1,4 +1,4 @@
-# PHP-AULA-6
+# PHP-AULA-5
 
 [Exercício 1](EX1/)
 
